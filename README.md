@@ -1,16 +1,48 @@
-## Hi there 👋
+# Fachry
 
-<!--
-**Fema19/Fema19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on building reliable web, mobile, and AI-driven systems.
+Currently sharpening fundamentals while developing real-world projects for long-term growth.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Web Development (Laravel, PHP)
+- Mobile Development (React Native)
+- Backend Systems & API Design
+- Artificial Intelligence & Machine Learning (foundational)
+- Automation and system efficiency
+
+---
+
+## Tech Stack
+**Languages**
+- PHP
+- JavaScript
+- Python
+
+**Frameworks & Tools**
+- Laravel
+- React Native
+- MySQL
+- Docker
+- Git
+
+---
+
+## Current Direction
+- Strengthening backend architecture and system design
+- Building production-oriented applications
+- Transitioning from foundational AI concepts to applied machine learning
+- Preparing a professional portfolio for international opportunities
+
+---
+
+## Principles
+- Build systems that solve real problems
+- Prioritize clarity, maintainability, and scalability
+- Learn by shipping, not by theory alone
+
+---
+
+## Contact
+GitHub: https://github.com/Fema19
