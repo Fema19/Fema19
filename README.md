@@ -7,7 +7,7 @@ Currently sharpening fundamentals while developing real-world projects for long-
 
 ## Focus Areas
 - Web Development (Laravel, PHP)
-- Mobile Development (React Native)
+- Game Developer (JavaScript)
 - Backend Systems & API Design
 - Artificial Intelligence & Machine Learning (foundational)
 - Automation and system efficiency
