@@ -22,7 +22,7 @@ Currently sharpening fundamentals while developing real-world projects for long-
 
 **Frameworks & Tools**
 - Laravel
-- React Native
+- Next JS
 - MySQL
 - Docker
 - Git
